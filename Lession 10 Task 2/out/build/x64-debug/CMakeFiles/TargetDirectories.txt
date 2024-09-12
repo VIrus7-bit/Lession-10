@@ -1,3 +1,0 @@
-C:/Users/italy/source/repos/Lession 10 Task 2/out/build/x64-debug/CMakeFiles/CMakeTarget.dir
-C:/Users/italy/source/repos/Lession 10 Task 2/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/italy/source/repos/Lession 10 Task 2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
